@@ -1,5 +1,8 @@
 # Selection
+
 My second programming assignment involving the concept of selection. The criteria is outlined below:
+
+![Java](java.webp)
 
 ## Problem 1 Scenario: Letter Grade Conversions
 
